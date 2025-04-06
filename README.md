@@ -18,5 +18,6 @@ Dashboard Preview
 <img width="941" alt="image" src="https://github.com/user-attachments/assets/53f5763a-faa8-48c6-85f0-817e4bffb90a" />
 
 🎯 Objective
+
 To raise awareness and empower informed decisions by presenting complex climate data in a clear, visual, and accessible format.
 
