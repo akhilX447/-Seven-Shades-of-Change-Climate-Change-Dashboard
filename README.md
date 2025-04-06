@@ -21,3 +21,5 @@ Dashboard Preview
 
 To raise awareness and empower informed decisions by presenting complex climate data in a clear, visual, and accessible format.
 
+🙋‍♂️ Author Akhil Sharma 📧 akhilsharma4716@gmail.com
+
